@@ -1,0 +1,5 @@
+const words = ["REACT", "JAVASCRIPT", "PROGRAMARE", "COMPONENTA", "HANGMAN", "SOARE", "MUNTE", "APA", "PRIMAVARA", "FRUNZA", "CER", "PLOAIE", "ZAMBET", "LUMINA", "FLUTURE", "NOR", "STELE", "VANT", "FRUCT", "PASARE", "LUNA", "COPAC", "PAPADIE", "VALURI", "FLOARE"];
+
+export default words;
+
+
